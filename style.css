@@ -1534,7 +1534,7 @@ section, footer {
     margin-bottom: 10px;
   }
   .woocommerce ul.products li.product a img {
-    max-height: 100px;
+    max-height: 130px;
     object-fit: contain;
   }
   .i-shop__menu ul li a {
